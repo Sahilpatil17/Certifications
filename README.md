@@ -15,9 +15,8 @@ The goal is to provide a single source of truth for all my qualifications:
 *   **Organization:** A systematic way to manage and showcase documentation related to my professional development journey.
 
 ---
+If you have any questions regarding my credentials or experience, please feel free to reach out via my main <br>GitHub Profile or connect with me on LinkedIn.
 
-## ✨ My Certifications
-
-Below are my most significant achievements and credentials. You can view detailed proof and verification links by clicking on the links in the rightmost column.
-
+---
+Thank you for visiting!
 
